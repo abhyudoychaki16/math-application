@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/math-application/static/css/main.b64b57d3.css",
-    "main.js": "/math-application/static/js/main.bf81d884.js",
+    "main.css": "/math-application/static/css/main.b25e3c89.css",
+    "main.js": "/math-application/static/js/main.d4dfdce7.js",
     "static/media/img2.png": "/math-application/static/media/img2.216c1f16d6b4f034cfec.png",
     "index.html": "/math-application/index.html",
-    "main.b64b57d3.css.map": "/math-application/static/css/main.b64b57d3.css.map",
-    "main.bf81d884.js.map": "/math-application/static/js/main.bf81d884.js.map"
+    "main.b25e3c89.css.map": "/math-application/static/css/main.b25e3c89.css.map",
+    "main.d4dfdce7.js.map": "/math-application/static/js/main.d4dfdce7.js.map"
   },
   "entrypoints": [
-    "static/css/main.b64b57d3.css",
-    "static/js/main.bf81d884.js"
+    "static/css/main.b25e3c89.css",
+    "static/js/main.d4dfdce7.js"
   ]
 }
