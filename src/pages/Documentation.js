@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom';
 const Documentation = () => {
   return (
     <div className='mainlayout'>
-      <Link to="/" className='goback-button'>
+      <Link to="/math-application" className='goback-button'>
         <span className='arrow'>&larr;</span> Go back
       </Link>
       <h1>Graph Plotter User Guide and Documentation</h1>
